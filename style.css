@@ -15,6 +15,9 @@
     font-family: "Bai Jamjuree", sans-serif;
  }
  .passo {
+     display: nome;
+
+ .passo-ativo {
     display: block;
  }
 
